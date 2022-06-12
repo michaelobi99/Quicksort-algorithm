@@ -1,5 +1,6 @@
 /target
 Cargo.lock
 Cargo.toml
-Huffman_Encoder.iml
+quicksort_algorithm.iml
+src/test.txt
 .idea
